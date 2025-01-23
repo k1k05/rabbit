@@ -1,0 +1,5 @@
+test\rabit\config\Config.class
+test\rabit\runer\Runner.class
+test\rabit\manage\Reciver.class
+test\rabit\RabitApplication.class
+test\rabit\manage\Sender.class
